@@ -1,0 +1,76 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    width: 595px;
+    margin: 0 auto;
+}
+
+fieldset {
+    border: 1px solid #b9b7b7;
+}
+
+input:checked {
+    color: blue;
+   }
+
+h1 {
+    font-size: 25px;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+span {
+    font-size: 14px;
+    font-weight: 900;
+}
+
+input {
+    margin-top: 5px;
+}
+
+.more__detail input {
+    margin: 0;
+}
+
+fieldset {
+    margin-top: 15px;
+}
+
+.finally__email {
+    margin-top: 15px;
+    display: block;
+    margin-bottom: -6px;
+}
+
+.cat__1 {
+    font-style: italic;
+    }
+
+.cat__1 span {
+    font-weight: normal;
+}
+
+.com, .subscribe__fin {
+    margin-top: 15px;
+    display: block;
+
+}
+.rez {
+  margin: 30px;
+  background: #dde9f9;
+  padding: 20px;
+}
+.rez span {
+  margin: 10px;
+
+}
+.rez span:hover {
+    background-color: #fdd67b;
+    padding: 3px;
+
+    margin: 10px;
+}
